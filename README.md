@@ -4,8 +4,8 @@
 <h3 align="center">Data Science Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeepsenpati&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeepsenpati" /> </p>
 
-- 🤝 I’m looking for help with **Machine Learning**
-- 🌱 I’m currently learning **Gen AI**
+- 🤝 I’m looking for help with **MLOPS and Gen AI**
+- 🌱 I’m currently learning **MLOPS and Gen AI**
 - 💬 Ask me about **Numpy, Pandas, Matplotlib, Seaborn, SkLearn, TensorFlow, Power BI, Machine Learning and Data Structure Algorithms,**
 - 📫 How to reach me **rajdeepsenapati26@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/rajdeep-senapati**
