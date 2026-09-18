@@ -5,7 +5,7 @@
 <h3 align="center">Data Science & Machine Learning | GenAI | B.Tech CSE (Data Science) Graduate</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajdeep-senapati-378088259" target="_blank">
+  <a href="https://www.linkedin.com/in/rajdeep-senapati" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/rajdeep-senapati" target="_blank">
@@ -121,7 +121,7 @@ I'm open to opportunities and conversations around **Data Science, Machine Learn
 
 📧 **Email:** rajdeepsenapati26@gmail.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/rajdeep-senapati-378088259
+💼 **LinkedIn:** https://www.linkedin.com/in/rajdeep-senapati
 
 💻 **GitHub:** https://github.com/rajdeep-senapati
 
