@@ -1,51 +1,130 @@
 <img src="animation.gif" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Rajdeep Senapati</h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
-<h3 align="center">Data Science Student</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeepsenpati&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeepsenpati" /> </p>
 
-- 🤝 I’m looking for help with **MLOPS and Gen AI**
-- 🌱 I’m currently learning **MLOPS and Gen AI**
-- 💬 Ask me about **Numpy, Pandas, Matplotlib, Seaborn, SkLearn, TensorFlow, Power BI, Machine Learning and Data Structure Algorithms,**
-- 📫 How to reach me **rajdeepsenapati26@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/rajdeep-senapati**
-- ⚡ Fun fact **You didn’t learn..if it had no mistakes or bugs**
+<h3 align="center">Data Science & Machine Learning | GenAI | B.Tech CSE (Data Science) Graduate</h3>
 
-<div> <a href="https://www.linkedin.com/in/rajdeep-senapati-378088259" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/rajdeep-senapati" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:rajdeepsenapati26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajdeep-senapati-378088259" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/rajdeep-senapati" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:rajdeepsenapati26@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajdeep-senapati&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **B.Tech Computer Science (Data Science) graduate** with a strong interest in **Data Science, Machine Learning, and Generative AI**.
+
+I enjoy turning real-world problems into practical data-driven solutions — from data cleaning and exploratory analysis to machine learning, forecasting, and interactive applications.
+
+Currently, I'm focused on strengthening my skills in **Machine Learning, GenAI, RAG systems, analytics, and applied AI**, while building projects that demonstrate both technical depth and business value.
+
+### 🔎 What I Work With
+
+- 📊 **Data Science & Analytics** — Python, Pandas, NumPy, SQL, Power BI
+- 🤖 **Machine Learning** — Scikit-learn, XGBoost, TensorFlow, PyTorch
+- 🧠 **Generative AI** — LLMs, RAG, LangChain, LangGraph, Hugging Face
+- ☁️ **Cloud & Data** — Azure, AWS, PySpark
+- 🚀 **Applications** — Streamlit, Flask, React
+- 📈 **Focus Areas** — Predictive Analytics, Forecasting, NLP, AI Applications
+
+---
+
+## 🚀 Featured Project
+
+### 📦 StockSense — Predictive Inventory Intelligence & Decision Support
+
+An end-to-end machine learning system that transforms retail transaction data into **SKU-level demand forecasts, inventory risk signals, and replenishment recommendations**.
+
+**Key metrics:**
+
+- 📊 **541,909** raw retail transactions
+- 🧹 **5,268** exact duplicate records identified and handled
+- 📦 **3,936** unique SKUs analyzed
+- 🔮 **2,435** SKUs included in the first forecasting pipeline
+- 📅 **17,045** seven-day forecast records generated
+- 🤖 **XGBoost** demand forecasting model
+- 📉 **10.25 MAE** on the held-out test period
+- 📈 **41.24 RMSE** on the held-out test period
+- 🎯 **76.88%** of total unit demand concentrated in the top 20% of SKUs
+- 🖥️ Interactive **5-page Streamlit dashboard**
+
+The project connects:
+
+**Data → Analysis → Forecasting → Inventory Risk → Recommended Actions**
+
+---
+
+## 🧠 Other Areas I've Worked On
+
+### 🧠 Machine Learning Research
+Worked on Alzheimer’s disease stage classification using **XGBoost and statistical feature selection** during a research internship at Jadavpur University.
+
+### 📈 Financial Forecasting
+Built an ML-based index forecasting project using **XGBoost**, achieving an **R² of 0.9499** on the evaluated dataset.
+
+### 🤖 RAG & Generative AI
+Built a multi-agent Q&A system using **LangChain, Llama 3, and FAISS**, exploring retrieval-augmented generation and agent-based workflows.
+
+### 🗺️ AI Route Optimizer
+Developed an AI-assisted route optimization application using **React, Flask, OR-Tools, and Gemini**.
+
+---
+
+## 🛠️ Languages & Tools
+
 <p align="left">
-<a href="https://www.linkedin.com/in/rajdeep-senapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="rajdeep-senapati" height="30" width="40" /></a>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="Opencv" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Stars</h3>
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep-senapati&layout=compact&theme=radical" alt=rajdeepsenpati />
+---
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeep-senapati&theme=" alt="rajdeep-senapati" /></p>
+## 📊 GitHub Statistics
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep-senapati&layout=compact&theme=radical" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeep-senapati&theme=radical" height="180em" />
+</p>
 
 <div align="center">
-<a href="https://github.com/rajdeep-senapati">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajdeep-senapati&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajdeep-senapati&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajdeep-senapati&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajdeep-senapati&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajdeep-senapati&theme=2077" height="180em" />
+  <a href="https://github.com/rajdeep-senapati">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajdeep-senapati&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajdeep-senapati&theme=2077" height="180em" />
+  </a>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
+
+---
+
+## 📫 Let's Connect
+
+I'm open to opportunities and conversations around **Data Science, Machine Learning, Data Analytics, and Generative AI**.
+
+📧 **Email:** rajdeepsenapati26@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/rajdeep-senapati-378088259
+
+💻 **GitHub:** https://github.com/rajdeep-senapati
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
