@@ -24,20 +24,34 @@
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech Computer Science (Data Science) graduate** with a strong interest in **Data Science, Machine Learning, and Generative AI**.
+I'm a **B.Tech Computer Science (Data Science) graduate** who enjoys building with **data, machine learning, and AI**.
 
-I enjoy turning real-world problems into practical data-driven solutions — from data cleaning and exploratory analysis to machine learning, forecasting, and interactive applications.
+I didn't start with polished end-to-end systems. I started with small experiments, dashboards, notebooks, and random ideas — then kept building, breaking, learning, and rebuilding.
 
-Currently, I'm focused on strengthening my skills in **Machine Learning, GenAI, RAG systems, analytics, and applied AI**, while building projects that demonstrate both technical depth and business value.
+Over time, that progression took me from **data analysis → machine learning → research → forecasting → optimization → GenAI applications**.
+
+Today, I focus on turning real-world problems into **practical, data-driven systems** — not just models that work in a notebook, but projects that connect analysis, prediction, and decisions.
 
 ### 🔎 What I Work With
 
-- 📊 **Data Science & Analytics** — Python, Pandas, NumPy, SQL, Power BI
-- 🤖 **Machine Learning** — Scikit-learn, XGBoost, TensorFlow, PyTorch
-- 🧠 **Generative AI** — LLMs, RAG, LangChain, LangGraph, Hugging Face
-- ☁️ **Cloud & Data** — Azure, AWS, PySpark
-- 🚀 **Applications** — Streamlit, Flask, React
-- 📈 **Focus Areas** — Predictive Analytics, Forecasting, NLP, AI Applications
+* 📊 **Data Science & Analytics** — Python, Pandas, NumPy, SQL, Power BI
+* 🤖 **Machine Learning** — Scikit-learn, XGBoost, TensorFlow, PyTorch
+* 🧠 **Generative AI** — LLMs, RAG, LangChain, LangGraph, Hugging Face
+* ☁️ **Cloud & Data** — Azure, AWS, PySpark
+* 🚀 **Applications** — Streamlit, Flask, React
+* 📈 **Focus Areas** — Predictive Analytics, Forecasting, NLP, AI Applications
+
+---
+
+## 🧭 From Experiments to Building
+
+I keep my earlier repositories because they are part of the journey.
+
+**Small experiments → Data Analysis → Machine Learning → Research → Forecasting → Optimization → GenAI → Practical AI Systems**
+
+The older projects show where I started.
+
+The newer ones show what I can build now.
 
 ---
 
@@ -49,16 +63,16 @@ An end-to-end machine learning system that transforms retail transaction data in
 
 **Key metrics:**
 
-- 📊 **541,909** raw retail transactions
-- 🧹 **5,268** exact duplicate records identified and handled
-- 📦 **3,936** unique SKUs analyzed
-- 🔮 **2,435** SKUs included in the first forecasting pipeline
-- 📅 **17,045** seven-day forecast records generated
-- 🤖 **XGBoost** demand forecasting model
-- 📉 **10.25 MAE** on the held-out test period
-- 📈 **41.24 RMSE** on the held-out test period
-- 🎯 **76.88%** of total unit demand concentrated in the top 20% of SKUs
-- 🖥️ Interactive **5-page Streamlit dashboard**
+* 📊 **541,909** raw retail transactions
+* 🧹 **5,268** exact duplicate records identified and handled
+* 📦 **3,936** unique SKUs analyzed
+* 🔮 **2,435** SKUs included in the first forecasting pipeline
+* 📅 **17,045** seven-day forecast records generated
+* 🤖 **XGBoost** demand forecasting model
+* 📉 **10.25 MAE** on the held-out test period
+* 📈 **41.24 RMSE** on the held-out test period
+* 🎯 **76.88%** of total unit demand concentrated in the top 20% of SKUs
+* 🖥️ Interactive **5-page Streamlit dashboard**
 
 The project connects:
 
@@ -69,15 +83,19 @@ The project connects:
 ## 🧠 Other Areas I've Worked On
 
 ### 🧠 Machine Learning Research
+
 Worked on Alzheimer’s disease stage classification using **XGBoost and statistical feature selection** during a research internship at Jadavpur University.
 
 ### 📈 Financial Forecasting
+
 Built an ML-based index forecasting project using **XGBoost**, achieving an **R² of 0.9499** on the evaluated dataset.
 
 ### 🤖 RAG & Generative AI
+
 Built a multi-agent Q&A system using **LangChain, Llama 3, and FAISS**, exploring retrieval-augmented generation and agent-based workflows.
 
 ### 🗺️ AI Route Optimizer
+
 Developed an AI-assisted route optimization application using **React, Flask, OR-Tools, and Gemini**.
 
 ---
@@ -119,7 +137,7 @@ Developed an AI-assisted route optimization application using **React, Flask, OR
 
 I'm open to opportunities and conversations around **Data Science, Machine Learning, Data Analytics, and Generative AI**.
 
-📧 **Email:** rajdeepsenapati26@gmail.com
+📧 **Email:** [rajdeepsenapati26@gmail.com](mailto:rajdeepsenapati26@gmail.com)
 
 💼 **LinkedIn:** https://www.linkedin.com/in/rajdeep-senapati
 
