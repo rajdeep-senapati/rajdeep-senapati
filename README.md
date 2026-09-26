@@ -5,9 +5,9 @@
 <br>
 
 <div align="center">
-  <a href="https://datascienceportfol.io/rajdeepsenapati">Portfolio</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/rajdeep-senapati">LinkedIn</a>
+  <a href="https://datascienceportfol.io/rajdeepsenapati"><img src="https://img.shields.io/badge/%E2%86%97%20PORTFOLIO-F5EFE3?style=for-the-badge&labelColor=F5EFE3&color=F5EFE3" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/rajdeep-senapati"><img src="https://img.shields.io/badge/in%20LINKEDIN-F5EFE3?style=for-the-badge&logo=linkedin&logoColor=FF3B30&labelColor=F5EFE3&color=F5EFE3" alt="LinkedIn" /></a>
+  <a href="https://x.com/rajdeepirl"><img src="https://img.shields.io/badge/%F0%9D%95%8F%20X-F5EFE3?style=for-the-badge&logo=x&logoColor=FF3B30&labelColor=F5EFE3&color=F5EFE3" alt="X" /></a>
 </div>
 
 <br>
@@ -36,27 +36,62 @@ Streamlit · Flask · PostgreSQL · Azure · AWS
 
 ## Selected work
 
-**StockSense**  
-Retail demand forecasting and inventory decision support.  
+<table>
+<tr>
+<td width="50%">
+
+### StockSense
+
+Retail demand forecasting and inventory decision support.
+
 `541,909 transactions` · `3,936 SKUs` · `10.25 MAE`
 
-**JobShield**  
-LLM workflow for job-risk analysis and evidence-based resume matching.  
+<a href="https://github.com/rajdeep-senapati/stocksense"><img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%86%97-F5EFE3?style=flat-square&labelColor=FF3B30&color=F5EFE3" alt="View StockSense" /></a>
+
+</td>
+<td width="50%">
+
+### JobShield
+
+LLM workflow for job-risk analysis and evidence-based resume matching.
+
 `Python` · `Groq` · `Streamlit`
 
-**Bank Nifty Research**  
-XGBoost-based index forecasting with an evaluated `R² = 0.9499`.  
-`XGBoost` · `Time Series`
+<a href="https://github.com/rajdeep-senapati/JobShield"><img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%86%97-F5EFE3?style=flat-square&labelColor=FF3B30&color=F5EFE3" alt="View JobShield" /></a>
 
-**Route Optimizer**  
-Route planning combining optimization, a web interface, and an AI layer.  
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Bank Nifty Research
+
+XGBoost-based index forecasting.
+
+`R² = 0.9499` · `XGBoost` · `Time Series`
+
+<a href="https://github.com/rajdeep-senapati/Bank_Nifty_Research"><img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%86%97-F5EFE3?style=flat-square&labelColor=FF3B30&color=F5EFE3" alt="View Bank Nifty Research" /></a>
+
+</td>
+<td width="50%">
+
+### Route Optimizer
+
+Route planning combining optimization, a web interface, and an AI layer.
+
 `React` · `Flask` · `OR-Tools`
+
+<a href="https://github.com/rajdeep-senapati/Route_Optimizer"><img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%86%97-F5EFE3?style=flat-square&labelColor=FF3B30&color=F5EFE3" alt="View Route Optimizer" /></a>
+
+</td>
+</tr>
+</table>
 
 ## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajdeep-senapati&show_icons=true&include_all_commits=true&hide_border=false&border_color=151515&bg_color=F5EFE3&title_color=FF3B30&text_color=151515&icon_color=FF3B30" height="180" alt="GitHub statistics" />
-  <img src="https://streak-stats.demolab.com/?user=rajdeep-senapati&hide_border=false&border=151515&background=F5EFE3&stroke=151515&ring=FF3B30&fire=FF3B30&currStreakNum=151515&sideNums=151515&currStreakLabel=4A4A4A&sideLabels=4A4A4A&dates=4A4A4A" height="180" alt="GitHub contribution streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajdeep-senapati&theme=default&animation=draw&duration=3&title_color=FF3B30&text_color=151515&bg_color=F5EFE3&border_color=151515&icon_color=FF3B30&chart_color=FF3B30" height="180" alt="GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajdeep-senapati&theme=default&animation=rise&duration=3&title_color=FF3B30&text_color=151515&bg_color=F5EFE3&border_color=151515&icon_color=FF3B30&chart_color=FF3B30" height="180" alt="GitHub profile activity" />
 </div>
 
 ## Research
@@ -67,11 +102,13 @@ The work combined **statistical feature selection** with **XGBoost** across mult
 
 ## More repositories
 
-[Pizza Review AI Assistant](https://github.com/rajdeep-senapati/Pizza-Review-AI-Assistant) ·
-[Fine-tuned DistilBERT](https://github.com/rajdeep-senapati/finetuned_distibert) ·
-[Spam Detector](https://github.com/rajdeep-senapati/Spam-Detector) ·
-[Diwali Sales Analysis](https://github.com/rajdeep-senapati/Diwali_Sales) ·
-[SuperStore Analysis](https://github.com/rajdeep-senapati/SuperStore_Analysis-Forecast)
+<div align="center">
+  <a href="https://github.com/rajdeep-senapati/Pizza-Review-AI-Assistant"><img src="https://img.shields.io/badge/Pizza%20Review%20AI%20Assistant-F5EFE3?style=flat-square&labelColor=151515&color=F5EFE3" alt="Pizza Review AI Assistant" /></a>
+  <a href="https://github.com/rajdeep-senapati/finetuned_distibert"><img src="https://img.shields.io/badge/Fine--tuned%20DistilBERT-F5EFE3?style=flat-square&labelColor=151515&color=F5EFE3" alt="Fine-tuned DistilBERT" /></a>
+  <a href="https://github.com/rajdeep-senapati/Spam-Detector"><img src="https://img.shields.io/badge/Spam%20Detector-F5EFE3?style=flat-square&labelColor=151515&color=F5EFE3" alt="Spam Detector" /></a>
+  <a href="https://github.com/rajdeep-senapati/Diwali_Sales"><img src="https://img.shields.io/badge/Diwali%20Sales-F5EFE3?style=flat-square&labelColor=151515&color=F5EFE3" alt="Diwali Sales" /></a>
+  <a href="https://github.com/rajdeep-senapati/SuperStore_Analysis-Forecast"><img src="https://img.shields.io/badge/SuperStore%20Analysis-F5EFE3?style=flat-square&labelColor=151515&color=F5EFE3" alt="SuperStore Analysis" /></a>
+</div>
 
 <br>
 
