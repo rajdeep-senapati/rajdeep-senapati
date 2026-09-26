@@ -1,63 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430">
-<rect width="1000" height="430" rx="18" fill="#151515"/>
-<rect width="1000" height="48" rx="18" fill="#151515"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+<rect width="1000" height="300" rx="18" fill="#151515"/>
 <circle cx="28" cy="24" r="6" fill="#FF3B30"/>
 <circle cx="50" cy="24" r="6" fill="#F5EFE3" opacity=".55"/>
 <circle cx="72" cy="24" r="6" fill="#F5EFE3" opacity=".3"/>
 <text x="95" y="29" font-family="monospace" font-size="15" fill="#F5EFE3" opacity=".7">rajdeep@portfolio:~</text>
 
 <defs>
-  <clipPath id="c1"><rect x="35" y="65" width="0" height="25"><animate attributeName="width" from="0" to="900" dur="1.1s" begin="0.5s" fill="freeze"/></rect></clipPath>
-  <clipPath id="c2"><rect x="35" y="133" width="0" height="25"><animate attributeName="width" from="0" to="900" dur="1.1s" begin="2.4s" fill="freeze"/></rect></clipPath>
-  <clipPath id="c3"><rect x="35" y="201" width="0" height="25"><animate attributeName="width" from="0" to="900" dur="1.1s" begin="4.3s" fill="freeze"/></rect></clipPath>
-  <clipPath id="c4"><rect x="35" y="269" width="0" height="25"><animate attributeName="width" from="0" to="900" dur="1.7s" begin="6.2s" fill="freeze"/></rect></clipPath>
-  <clipPath id="c5"><rect x="35" y="337" width="0" height="25"><animate attributeName="width" from="0" to="900" dur="1.4s" begin="8.5s" fill="freeze"/></rect></clipPath>
+  <clipPath id="hello"><rect x="38" y="65" width="0" height="28">
+    <animate attributeName="width" values="0;440;0" keyTimes="0;.45;1" dur="4.8s" begin="0s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <clipPath id="cmd"><rect x="38" y="118" width="0" height="28">
+    <animate attributeName="width" values="0;300;0" keyTimes="0;.45;1" dur="4.8s" begin="1.2s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <clipPath id="out"><rect x="38" y="171" width="0" height="28">
+    <animate attributeName="width" values="0;650;0" keyTimes="0;.65;1" dur="4.8s" begin="2.2s" repeatCount="indefinite"/>
+  </rect></clipPath>
 </defs>
 
-<g font-family="monospace" font-size="18" fill="#F5EFE3">
-  <g clip-path="url(#c1)">
-    <text x="38" y="90"><tspan fill="#FF3B30">$ </tspan>whoami</text>
+<g font-family="monospace" font-size="19" fill="#F5EFE3">
+  <g clip-path="url(#hello)">
+    <text x="38" y="90"><tspan fill="#FF3B30">$ </tspan>echo "Hey, it's Rajdeep."</text>
   </g>
-  <text x="38" y="116" fill="#F5EFE3" opacity="0">
-    Rajdeep Senapati
-    <animate attributeName="opacity" values="0;1" dur=".2s" begin="1.7s" fill="freeze"/>
-  </text>
-
-  <g clip-path="url(#c2)">
-    <text x="38" y="158"><tspan fill="#FF3B30">$ </tspan>cat focus.txt</text>
+  <g clip-path="url(#cmd)">
+    <text x="38" y="143"><tspan fill="#FF3B30">$ </tspan>focus</text>
   </g>
-  <text x="38" y="184" fill="#F5EFE3" opacity="0">
-    Data Analytics · Machine Learning · GenAI
-    <animate attributeName="opacity" values="0;1" dur=".2s" begin="3.6s" fill="freeze"/>
-  </text>
-
-  <g clip-path="url(#c3)">
-    <text x="38" y="226"><tspan fill="#FF3B30">$ </tspan>python skills.py</text>
+  <g clip-path="url(#out)">
+    <text x="38" y="196">Data · ML · GenAI · practical AI systems</text>
   </g>
 
-  <text x="38" y="252" fill="#F5EFE3" opacity="0">
-    Python · SQL · pandas · NumPy · scikit-learn
-    <animate attributeName="opacity" values="0;1" dur=".2s" begin="5.8s" fill="freeze"/>
+  <text x="38" y="250" fill="#FF3B30">
+    $ <tspan fill="#F5EFE3">skills</tspan>
+    <animate attributeName="opacity" values="0;1;0" dur="4.8s" begin="3.5s" repeatCount="indefinite"/>
   </text>
-  <text x="38" y="278" fill="#F5EFE3" opacity="0">
-    XGBoost · PySpark · Power BI · PostgreSQL
-    <animate attributeName="opacity" values="0;1" dur=".2s" begin="6.2s" fill="freeze"/>
-  </text>
-  <text x="38" y="304" fill="#F5EFE3" opacity="0">
-    LLMs · RAG · LangChain · Hugging Face · Agents
-    <animate attributeName="opacity" values="0;1" dur=".2s" begin="6.6s" fill="freeze"/>
-  </text>
-  <text x="38" y="330" fill="#F5EFE3" opacity="0">
-    Azure · AWS · Streamlit
-    <animate attributeName="opacity" values="0;1" dur=".2s" begin="7.0s" fill="freeze"/>
-  </text>
-
-  <g clip-path="url(#c5)">
-    <text x="38" y="362"><tspan fill="#FF3B30">$ </tspan>echo "building useful AI, not hype."</text>
-  </g>
-  <text x="38" y="388" fill="#FF3B30" opacity="0">
-    $
-    <animate attributeName="opacity" values="0;1;0" dur="1s" begin="10s" repeatCount="indefinite"/>
-  </text>
+  <text x="38" y="276" fill="#F5EFE3" opacity=".8">Python · SQL · XGBoost · LLMs · RAG</text>
 </g>
 </svg>
