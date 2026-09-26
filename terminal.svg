@@ -1,37 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
-<rect width="1000" height="300" rx="18" fill="#151515"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280">
+<rect width="1000" height="280" rx="18" fill="#151515"/>
 <circle cx="28" cy="24" r="6" fill="#FF3B30"/>
 <circle cx="50" cy="24" r="6" fill="#F5EFE3" opacity=".55"/>
 <circle cx="72" cy="24" r="6" fill="#F5EFE3" opacity=".3"/>
 <text x="95" y="29" font-family="monospace" font-size="15" fill="#F5EFE3" opacity=".7">rajdeep@portfolio:~</text>
 
 <defs>
-  <clipPath id="hello"><rect x="38" y="65" width="0" height="28">
-    <animate attributeName="width" values="0;440;0" keyTimes="0;.45;1" dur="4.8s" begin="0s" repeatCount="indefinite"/>
+  <clipPath id="line1"><rect x="38" y="58" width="0" height="28">
+    <animate attributeName="width" values="0;470;470;0" keyTimes="0;.28;.78;1" dur="6s" repeatCount="indefinite"/>
   </rect></clipPath>
-  <clipPath id="cmd"><rect x="38" y="118" width="0" height="28">
-    <animate attributeName="width" values="0;300;0" keyTimes="0;.45;1" dur="4.8s" begin="1.2s" repeatCount="indefinite"/>
+  <clipPath id="line2"><rect x="38" y="116" width="0" height="28">
+    <animate attributeName="width" values="0;360;360;0" keyTimes="0;.28;.78;1" dur="6s" begin="1s" repeatCount="indefinite"/>
   </rect></clipPath>
-  <clipPath id="out"><rect x="38" y="171" width="0" height="28">
-    <animate attributeName="width" values="0;650;0" keyTimes="0;.65;1" dur="4.8s" begin="2.2s" repeatCount="indefinite"/>
+  <clipPath id="line3"><rect x="38" y="174" width="0" height="28">
+    <animate attributeName="width" values="0;650;650;0" keyTimes="0;.28;.78;1" dur="6s" begin="2s" repeatCount="indefinite"/>
   </rect></clipPath>
 </defs>
 
 <g font-family="monospace" font-size="19" fill="#F5EFE3">
-  <g clip-path="url(#hello)">
-    <text x="38" y="90"><tspan fill="#FF3B30">$ </tspan>echo "Hey, it's Rajdeep."</text>
-  </g>
-  <g clip-path="url(#cmd)">
-    <text x="38" y="143"><tspan fill="#FF3B30">$ </tspan>focus</text>
-  </g>
-  <g clip-path="url(#out)">
-    <text x="38" y="196">Data · ML · GenAI · practical AI systems</text>
+  <g clip-path="url(#line1)">
+    <text x="38" y="82"><tspan fill="#FF3B30">$ </tspan>echo "Hey, it's Rajdeep."</text>
   </g>
 
-  <text x="38" y="250" fill="#FF3B30">
-    $ <tspan fill="#F5EFE3">skills</tspan>
-    <animate attributeName="opacity" values="0;1;0" dur="4.8s" begin="3.5s" repeatCount="indefinite"/>
-  </text>
-  <text x="38" y="276" fill="#F5EFE3" opacity=".8">Python · SQL · XGBoost · LLMs · RAG</text>
+  <g clip-path="url(#line2)">
+    <text x="38" y="140"><tspan fill="#FF3B30">$ </tspan>python skills.py</text>
+  </g>
+
+  <g clip-path="url(#line3)">
+    <text x="38" y="198">Python · SQL · ML · GenAI · RAG</text>
+  </g>
+
+  <text x="38" y="238" fill="#FF3B30">$<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></text>
 </g>
 </svg>
