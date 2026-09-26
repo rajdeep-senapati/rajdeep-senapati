@@ -1,15 +1,26 @@
+<!--
+  Rajdeep Senapati · profile README
+  Visual direction: cream / black / red, aligned with my portfolio.
+-->
+
 <div align="center">
-  <img src="./hero-workspace.gif" width="100%" alt="Rajdeep working on an AI and data project" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF3B30&height=120&section=header" alt="Rajdeep header" />
+
+# RAJDEEP SENAPATI
+
+**DATA · ML · GENAI**
+
+*Building useful AI, not hype.*
+
+[**Portfolio ↗**](https://datascienceportfol.io/rajdeepsenapati) ·
+[**LinkedIn ↗**](https://www.linkedin.com/in/rajdeep-senapati) ·
+[**X @rajdeepirl ↗**](https://x.com/rajdeepirl) ·
+[**Email ↗**](mailto:rajdeepsenapati26@gmail.com)
+
 </div>
 
-<br>
-
-<div align="center">
-  <a href="https://datascienceportfol.io/rajdeepsenapati"><img src="https://img.shields.io/badge/%E2%86%97%20PORTFOLIO-151515?style=flat-square&labelColor=FF3B30&color=F5EFE3" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/rajdeep-senapati"><img src="https://img.shields.io/badge/in%20LINKEDIN-151515?style=flat-square&labelColor=FF3B30&color=F5EFE3" alt="LinkedIn" /></a>
-  <a href="https://x.com/rajdeepirl"><img src="https://img.shields.io/badge/%F0%9D%95%8F%20%40RAJDEEPIRL-151515?style=flat-square&labelColor=FF3B30&color=F5EFE3" alt="X @rajdeepirl" /></a>
-  <a href="mailto:rajdeepsenapati26@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%20EMAIL-151515?style=flat-square&labelColor=FF3B30&color=F5EFE3" alt="Email" /></a>
-</div>
+---
 
 ## About
 
@@ -17,16 +28,30 @@ I'm a Data Science graduate working across **data, machine learning, and practic
 
 I like taking a messy problem, figuring out what actually matters, and building something useful around it.
 
-<code>data → analysis → model → useful output</code>
+> `data → analysis → model → useful output`
 
-## Tools I use
+## Main skills
 
-| | |
-|---|---|
-| **Data** | Python · SQL · pandas · NumPy · Power BI · PySpark |
-| **Machine Learning** | scikit-learn · XGBoost · forecasting · feature engineering |
-| **GenAI** | LLMs · RAG · LangChain · Hugging Face · agents |
-| **Build & deploy** | Streamlit · Flask · PostgreSQL · Azure · AWS |
+[![Python](https://img.shields.io/badge/Python-151515?style=flat-square&logo=python&logoColor=F5EFE3)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-151515?style=flat-square&logo=postgresql&logoColor=F5EFE3)](https://www.postgresql.org/)
+[![pandas](https://img.shields.io/badge/pandas-151515?style=flat-square&logo=pandas&logoColor=F5EFE3)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-151515?style=flat-square&logo=numpy&logoColor=F5EFE3)](https://numpy.org/)
+[![scikit--learn](https://img.shields.io/badge/scikit--learn-151515?style=flat-square&logo=scikit-learn&logoColor=F5EFE3)](https://scikit-learn.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-151515?style=flat-square&logo=xgboost&logoColor=F5EFE3)](https://xgboost.readthedocs.io/)
+[![PySpark](https://img.shields.io/badge/PySpark-151515?style=flat-square&logo=apachespark&logoColor=F5EFE3)](https://spark.apache.org/docs/latest/api/python/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-151515?style=flat-square&logo=powerbi&logoColor=FF3B30)](https://powerbi.microsoft.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-151515?style=flat-square&logo=chainlink&logoColor=F5EFE3)](https://www.langchain.com/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-151515?style=flat-square&logo=huggingface&logoColor=F5EFE3)](https://huggingface.co/)
+[![Azure](https://img.shields.io/badge/Azure-151515?style=flat-square&logo=microsoftazure&logoColor=F5EFE3)](https://azure.microsoft.com/)
+[![AWS](https://img.shields.io/badge/AWS-151515?style=flat-square&logo=amazonwebservices&logoColor=FF3B30)](https://aws.amazon.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-151515?style=flat-square&logo=postgresql&logoColor=F5EFE3)](https://www.postgresql.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-151515?style=flat-square&logo=streamlit&logoColor=FF3B30)](https://streamlit.io/)
+
+### Focus
+
+**Data Analytics** · **Machine Learning** · **GenAI / LLMs / RAG**
+
+---
 
 ## Selected work
 
@@ -81,11 +106,7 @@ Route planning combining optimization, a web interface, and an AI layer.
 </tr>
 </table>
 
-## Snapshot
-
-<div align="center">
-  <img src="./profile-stats.svg?v=3" width="100%" alt="Profile snapshot" />
-</div>
+---
 
 ## Research
 
@@ -93,48 +114,34 @@ During my research internship at Jadavpur University, I worked on Alzheimer's di
 
 The work combined **statistical feature selection** with **XGBoost** across multiple binary classification tasks.
 
+---
+
 ## More work
 
-<table>
-<tr>
-<td width="50%">
+| Project | What it is |
+|---|---|
+| [Pizza Review AI ↗](https://github.com/rajdeep-senapati/Pizza-Review-AI-Assistant) | AI assistant for pizza review analysis |
+| [DistilBERT ↗](https://github.com/rajdeep-senapati/finetuned_distibert) | Fine-tuned transformer text classification |
+| [Spam Detector ↗](https://github.com/rajdeep-senapati/Spam-Detector) | TF-IDF + MultinomialNB text classification |
+| [Diwali Sales ↗](https://github.com/rajdeep-senapati/Diwali_Sales) | Customer analysis and segmentation |
+| [SuperStore Analysis ↗](https://github.com/rajdeep-senapati/SuperStore_Analysis-Forecast) | Sales analysis with forecasting |
 
-<a href="https://github.com/rajdeep-senapati/Pizza-Review-AI-Assistant"><b>Pizza Review AI</b></a><br>
-AI assistant for pizza review analysis.
+---
 
-</td>
-<td width="50%">
+## Connect
 
-<a href="https://github.com/rajdeep-senapati/finetuned_distibert"><b>DistilBERT</b></a><br>
-Fine-tuned transformer text classification work.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<a href="https://github.com/rajdeep-senapati/Spam-Detector"><b>Spam Detector</b></a><br>
-TF-IDF + MultinomialNB text classification.
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/rajdeep-senapati/Diwali_Sales"><b>Diwali Sales</b></a><br>
-Customer analysis and segmentation.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<a href="https://github.com/rajdeep-senapati/SuperStore_Analysis-Forecast"><b>SuperStore Analysis</b></a><br>
-Sales analysis with forecasting.
-
-</td>
-<td width="50%"></td>
-</tr>
-</table>
+<div align="left">
+<a href="https://datascienceportfol.io/rajdeepsenapati">↗ PORTFOLIO</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rajdeep-senapati">in LINKEDIN</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://x.com/rajdeepirl">𝕏 @RAJDEEPIRL</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:rajdeepsenapati26@gmail.com">✉ EMAIL</a>
+</div>
 
 <br>
 
-<div align="center"><sub>Building useful AI, not hype.</sub></div>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF3B30&height=100&section=footer" alt="Rajdeep footer" />
+</div>
