@@ -1,15 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420">
 <rect width="1600" height="420" fill="#F5EFE3"/>
+<circle cx="1515" cy="35" r="190" fill="#FF3B30"/>
+<circle cx="1510" cy="445" r="180" fill="#151515"/>
 <g fill="none" stroke="#151515">
-<circle cx="1370" cy="82" r="235" stroke-opacity=".10"/><circle cx="1370" cy="82" r="175" stroke-opacity=".12"/><circle cx="1370" cy="82" r="115" stroke-opacity=".14"/>
-<path d="M1070 312H1515" stroke-opacity=".12"/><path d="M1160 252H1515" stroke="#FF3B30" stroke-width="2"/>
+<circle cx="1325" cy="235" r="150" stroke-opacity=".10"/>
+<circle cx="1325" cy="235" r="112" stroke-opacity=".12"/>
+<circle cx="1325" cy="235" r="74" stroke="#FF3B30" stroke-opacity=".30" stroke-dasharray="5 7"/>
 </g>
-<g><circle cx="1160" cy="252" r="5" fill="#FF3B30"><animate attributeName="r" values="4;8;4" dur="2.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;1;.55" dur="2.8s" repeatCount="indefinite"/></circle>
-<circle cx="1515" cy="312" r="5" fill="#151515"><animate attributeName="cy" values="312;300;312" dur="3.6s" repeatCount="indefinite"/></circle>
-<circle cx="1370" cy="82" r="8" fill="#FF3B30"><animateMotion dur="7s" repeatCount="indefinite" path="M0,0 C95,-40 145,45 0,0 C-95,40 -145,-45 0,0"/></circle></g>
-<text x="100" y="100" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" letter-spacing="5" fill="#151515">DATA • ML • GENAI</text>
-<text x="100" y="205" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="800" fill="#151515">Building useful</text>
-<text x="100" y="285" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="800" fill="#FF3B30">AI, not hype.</text>
-<text x="100" y="350" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#4A4A4A">Data analysis · machine learning · practical AI systems</text>
-<rect x="100" y="385" width="44" height="4" fill="#FF3B30"><animate attributeName="width" values="18;58;18" dur="3s" repeatCount="indefinite"/></rect>
-<text x="160" y="391" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2" fill="#4A4A4A">RAJDEEP SENAPATI</text></svg>
+<path d="M980 115H1180" stroke="#151515" stroke-opacity=".16"/>
+<path d="M1110 235H1510" stroke="#FF3B30" stroke-width="2"/>
+<path d="M1080 330H1450" stroke="#151515" stroke-opacity=".12"/>
+<g font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#151515">
+<rect x="1010" y="86" width="128" height="42" fill="#F5EFE3" stroke="#151515" stroke-opacity=".18"/>
+<text x="1032" y="112">ANALYTICS</text>
+<rect x="990" y="306" width="110" height="42" fill="#F5EFE3" stroke="#151515" stroke-opacity=".18"/>
+<text x="1015" y="332">GENAI</text>
+<rect x="1450" y="215" width="82" height="42" fill="#F5EFE3" stroke="#151515" stroke-opacity=".18"/>
+<text x="1472" y="241">ML</text>
+</g>
+<g fill="#FF3B30">
+<circle cx="1180" cy="115" r="6"><animate attributeName="r" values="5;9;5" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="1100" cy="330" r="6"><animate attributeName="r" values="5;9;5" dur="2.7s" begin=".4s" repeatCount="indefinite"/></circle>
+<circle cx="1450" cy="235" r="6"><animate attributeName="r" values="5;9;5" dur="2.5s" begin=".8s" repeatCount="indefinite"/></circle>
+<circle cx="1325" cy="161" r="7">
+<animateMotion dur="8s" repeatCount="indefinite" path="M0,0 C80,-55 145,15 150,74 C155,135 70,180 0,148 C-70,180 -155,135 -150,74 C-145,15 -80,-55 0,0"/>
+</circle>
+</g>
+<text x="70" y="82" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="700" letter-spacing="5" fill="#151515">DATA • ML • GENAI</text>
+<text x="70" y="190" font-family="Arial,Helvetica,sans-serif" font-size="74" font-weight="800" fill="#151515">Building useful</text>
+<text x="70" y="268" font-family="Arial,Helvetica,sans-serif" font-size="74" font-weight="800" fill="#FF3B30">AI, not hype.</text>
+<text x="70" y="332" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#4A4A4A">Data analysis · machine learning · practical AI systems</text>
+<rect x="70" y="370" width="48" height="4" fill="#FF3B30"><animate attributeName="width" values="20;62;20" dur="3s" repeatCount="indefinite"/></rect>
+<text x="130" y="377" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2" fill="#4A4A4A">RAJDEEP SENAPATI</text>
+</svg>
