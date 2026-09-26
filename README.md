@@ -6,13 +6,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF3B30&height=120&section=header" alt="Rajdeep header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=600&size=27&duration=3500&pause=700&color=FF3B30&center=false&vCenter=true&width=600&lines=Hey%2C+it's+Rajdeep.;Data+Science+%7C+Machine+Learning;GenAI+%7C+LLMs+%7C+RAG" alt="Typing introduction"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=600&size=27&duration=3200&pause=800&color=FF3B30&center=false&vCenter=true&width=420&lines=Hey%2C+it's+Rajdeep." alt="Hey, it's Rajdeep"/>
 </a>
 
 <br>
 
 <div>
-  <img src="./terminal.svg?v=3" width="100%" alt="Rajdeep terminal profile"/>
+  <img src="./terminal.svg?v=4" width="100%" alt="Rajdeep terminal profile"/>
 </div>
 
 <br>
@@ -20,7 +20,7 @@
 ## Main skills
 
 <a href="https://skillicons.dev">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,postgres,mysql,pandas,numpy,scikitlearn,pycharm,git,github,azure,aws,docker,streamlit,flask,react,html,css&perline=9" alt="Rajdeep's main skills"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,postgres,mysql,pandas,numpy,scikitlearn,git,github,azure,aws,streamlit,docker&perline=8" alt="Rajdeep's main skills"/>
 </a>
 
 <br><br>
@@ -28,10 +28,8 @@
 ### Data & ML
 
 <a href="https://skillicons.dev">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,scikitlearn,postgres,mysql,pyspark,pbi&perline=8" alt="Data and machine learning skills"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,scikitlearn,xgboost,pyspark,pbi&perline=7" alt="Data and machine learning skills"/>
 </a>
-
-**XGBoost · Time Series Forecasting · Feature Engineering · RFM · K-Means · Power BI · PySpark**
 
 ### GenAI
 
@@ -43,19 +41,15 @@
   <img src="./assets/openai-icon.svg" width="48" height="48" alt="LLMs"/>
 </div>
 
-**LLMs · RAG · LangChain · Hugging Face · Agents · Prompt Engineering**
-
 ### Cloud & build
 
 <a href="https://skillicons.dev">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,aws,streamlit,flask,git,github&perline=7" alt="Cloud and development skills"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,aws,streamlit,git,github&perline=6" alt="Cloud and build skills"/>
 </a>
-
-<br>
 
 ### Currently exploring
 
-**PySpark · Agentic AI · RAG systems · LLM applications**
+**PySpark · Agentic AI · RAG systems**
 
 ---
 
