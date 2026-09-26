@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile-banner.svg?v=3" width="100%" alt="Rajdeep Senapati — Data, ML, GenAI" />
+  <img src="./hero-workspace.gif?v=1" width="100%" alt="Rajdeep working on an AI and data project" />
 </div>
 
 <br>
@@ -81,10 +81,10 @@ Route planning combining optimization, a web interface, and an AI layer.
 </tr>
 </table>
 
-## GitHub activity
+## Snapshot
 
 <div align="center">
-  <img src="./profile-stats.svg?v=2" width="100%" alt="Profile snapshot" />
+  <img src="./profile-stats.svg?v=3" width="100%" alt="Profile snapshot" />
 </div>
 
 ## Research
@@ -131,9 +131,7 @@ Customer analysis and segmentation.
 Sales analysis with forecasting.
 
 </td>
-<td width="50%">
-
-</td>
+<td width="50%"></td>
 </tr>
 </table>
 
