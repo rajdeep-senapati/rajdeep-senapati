@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile-hero.gif?v=1" width="100%" alt="Rajdeep Senapati — Data, ML, GenAI" />
+  <img src="./profile-banner.svg?v=2" width="100%" alt="Rajdeep Senapati — Data, ML, GenAI" />
 </div>
 
 <br>
@@ -84,7 +84,7 @@ Route planning combining optimization, a web interface, and an AI layer.
 ## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajdeep-senapati&bg_color=F5EFE3&color=151515&line=FF3B30&point=FF3B30&area=true&area_color=FF3B30&hide_border=true&radius=12" width="100%" alt="GitHub contribution activity" />
+  <img src="./profile-stats.svg?v=1" width="100%" alt="Profile statistics" />
 </div>
 
 ## Research
@@ -96,11 +96,15 @@ The work combined **statistical feature selection** with **XGBoost** across mult
 ## More work
 
 <div align="center">
-  <a href="https://github.com/rajdeep-senapati/Pizza-Review-AI-Assistant"><img src="https://img.shields.io/badge/PIZZA%20REVIEW%20AI-151515?style=flat-square&labelColor=F5EFE3&color=151515" alt="Pizza Review AI Assistant" /></a>
-  <a href="https://github.com/rajdeep-senapati/finetuned_distibert"><img src="https://img.shields.io/badge/DISTILBERT-151515?style=flat-square&labelColor=F5EFE3&color=151515" alt="Fine-tuned DistilBERT" /></a>
-  <a href="https://github.com/rajdeep-senapati/Spam-Detector"><img src="https://img.shields.io/badge/SPAM%20DETECTOR-151515?style=flat-square&labelColor=F5EFE3&color=151515" alt="Spam Detector" /></a>
-  <a href="https://github.com/rajdeep-senapati/Diwali_Sales"><img src="https://img.shields.io/badge/DIWALI%20SALES-151515?style=flat-square&labelColor=F5EFE3&color=151515" alt="Diwali Sales" /></a>
-  <a href="https://github.com/rajdeep-senapati/SuperStore_Analysis-Forecast"><img src="https://img.shields.io/badge/SUPERSTORE%20ANALYSIS-151515?style=flat-square&labelColor=F5EFE3&color=151515" alt="SuperStore Analysis" /></a>
+  <a href="https://github.com/rajdeep-senapati/Pizza-Review-AI-Assistant">↗ Pizza Review AI</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/rajdeep-senapati/finetuned_distibert">↗ DistilBERT</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/rajdeep-senapati/Spam-Detector">↗ Spam Detector</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/rajdeep-senapati/Diwali_Sales">↗ Diwali Sales</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/rajdeep-senapati/SuperStore_Analysis-Forecast">↗ SuperStore Analysis</a>
 </div>
 
 <br>
