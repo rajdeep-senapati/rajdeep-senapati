@@ -1,77 +1,47 @@
-<!-- Rajdeep Senapati | GitHub Profile -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=FF3B30&section=header" width="100%" />
+  <img src="./profile-banner.svg" width="100%" alt="Rajdeep Senapati — Data, ML, GenAI" />
 </div>
 
+<br>
+
 <div align="center">
-
-# Rajdeep Senapati
-
-### Data • ML • GenAI
-
-I like taking messy data, figuring out what matters, and turning it into something useful.
-
-[Portfolio](https://datascienceportfol.io/rajdeepsenapati) · [LinkedIn](https://www.linkedin.com/in/rajdeep-senapati) · [Email](mailto:rajdeepsenapati26@gmail.com)
-
+  <a href="https://datascienceportfol.io/rajdeepsenapati">Portfolio</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/rajdeep-senapati">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:rajdeepsenapati26@gmail.com">Email</a>
 </div>
 
----
+<br>
 
-## What I build
+## About
 
-Most of my work sits somewhere between **data analysis, machine learning, and practical AI**.
+I'm a Data Science graduate interested in the space between **data, machine learning, and practical AI**.
 
-I started with small notebooks and analysis projects, then moved into research, forecasting, optimization, and GenAI applications. These days, I care less about making a model look impressive on paper and more about whether the whole thing makes sense from data to output.
+I started with analysis and small ML projects, then moved into research, forecasting, optimization, and GenAI applications. I like understanding why something works, not just getting a model to run.
 
-```text
-data → analysis → model → product
-```
+`data → analysis → model → useful output`
 
-### Current stack
+## Tools I use
 
-| Data | Machine Learning | GenAI | Engineering |
-|---|---|---|---|
-| Python · SQL · pandas · NumPy | scikit-learn · XGBoost | LLMs · RAG · LangChain · Hugging Face | Streamlit · Flask · PostgreSQL |
-| Power BI · PySpark | forecasting · feature engineering | agents · prompt design | Azure · AWS |
+**Data**  
+Python · SQL · pandas · NumPy · Power BI · PySpark
 
----
+**Machine Learning**  
+scikit-learn · XGBoost · forecasting · feature engineering
 
-## A few things I've built
+**GenAI**  
+LLMs · RAG · LangChain · Hugging Face · agents
 
-### StockSense
-A retail demand forecasting and inventory decision-support system built around SKU-level demand.
+**Build & deploy**  
+Streamlit · Flask · PostgreSQL · Azure · AWS
 
-**541,909** raw transactions · **3,936** SKUs · **10.25 MAE** on the held-out test set
+## Selected work
 
-`XGBoost` `Time Series` `Inventory Logic` `Streamlit`
-
-[View repository →](https://github.com/rajdeep-senapati/stocksense)
-
-### JobShield
-A job analysis tool that keeps **job-risk signals** separate from **resume-to-job matching**.
-
-The project uses structured resume extraction, two-stage LLM reasoning, risk checks, and evidence-based matching instead of treating every keyword as a qualification.
-
-`Python` `Groq` `LLMs` `Streamlit` `PDF/DOCX`
-
-[View repository →](https://github.com/rajdeep-senapati/JobShield)
-
-### Bank Nifty Research
-An ML-based index forecasting project using XGBoost, with the evaluated model reaching an **R² of 0.9499** on the project dataset.
-
-`Python` `XGBoost` `Time Series`
-
-[View repository →](https://github.com/rajdeep-senapati/Bank_Nifty_Research)
-
-### Route Optimizer
-A route planning application combining a web interface, optimization logic, and an AI layer.
-
-`React` `Flask` `OR-Tools` `Gemini`
-
-[View repository →](https://github.com/rajdeep-senapati/Route_Optimizer)
-
----
+| | |
+|---|---|
+| **StockSense**<br>Retail demand forecasting and inventory decision support.<br><br>**541,909** transactions · **3,936** SKUs · **10.25 MAE** | **JobShield**<br>Job-risk analysis and evidence-based resume matching using a two-stage LLM workflow.<br><br>`Python` · `Groq` · `Streamlit` |
+| **Bank Nifty Research**<br>XGBoost-based index forecasting with an evaluated **R² of 0.9499**.<br><br>`XGBoost` · `Time Series` | **Route Optimizer**<br>Route planning combining optimization, a web interface, and an AI layer.<br><br>`React` · `Flask` · `OR-Tools` |
 
 ## Research
 
@@ -79,46 +49,16 @@ During my research internship at Jadavpur University, I worked on Alzheimer's di
 
 The work combined **statistical feature selection** with **XGBoost** across multiple binary classification tasks.
 
-I also keep a number of smaller projects here because they show how I learned, not just what I ended up with.
+## More repositories
 
----
+[Pizza Review AI Assistant](https://github.com/rajdeep-senapati/Pizza-Review-AI-Assistant) ·
+[Fine-tuned DistilBERT](https://github.com/rajdeep-senapati/finetuned_distibert) ·
+[Spam Detector](https://github.com/rajdeep-senapati/Spam-Detector) ·
+[Diwali Sales Analysis](https://github.com/rajdeep-senapati/Diwali_Sales) ·
+[SuperStore Analysis](https://github.com/rajdeep-senapati/SuperStore_Analysis-Forecast)
 
-## Selected work
-
-A few other repositories worth exploring:
-
-- [Pizza Review AI Assistant](https://github.com/rajdeep-senapati/Pizza-Review-AI-Assistant)
-- [Fine-tuned DistilBERT](https://github.com/rajdeep-senapati/finetuned_distibert)
-- [Spam Detector](https://github.com/rajdeep-senapati/Spam-Detector)
-- [Diwali Sales Analysis](https://github.com/rajdeep-senapati/Diwali_Sales)
-- [SuperStore Analysis & Forecast](https://github.com/rajdeep-senapati/SuperStore_Analysis-Forecast)
-
----
-
-## GitHub activity
+<br>
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rajdeep-senapati&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=false&bg_color=F6F0E4&title_color=151515&text_color=4A4A4A&icon_color=FF3B30&border_color=DDD5C8&hide_border=false" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep-senapati&layout=compact&hide_title=true&langs_count=6&bg_color=F6F0E4&title_color=151515&text_color=4A4A4A&icon_color=FF3B30&border_color=DDD5C8&hide_border=false" />
-
-</div>
-
----
-
-## Outside the repositories
-
-I'm interested in **GenAI, RAG, agentic systems, forecasting, data products, and the reasoning behind how these systems work**.
-
-I also post what I'm learning and building:
-
-[LinkedIn](https://www.linkedin.com/in/rajdeep-senapati) · [X](https://x.com/rajdeep_senapati)
-
----
-
-<div align="center">
-
-**Building useful AI, not hype.**
-
+  <sub>Building useful AI, not hype.</sub>
 </div>
