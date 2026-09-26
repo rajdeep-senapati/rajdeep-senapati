@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./hero-workspace.gif?v=1" width="100%" alt="Rajdeep working on an AI and data project" />
+  <img src="./hero-workspace.gif" width="100%" alt="Rajdeep working on an AI and data project" />
 </div>
 
 <br>
