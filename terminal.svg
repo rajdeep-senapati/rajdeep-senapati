@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="390" viewBox="0 0 1000 390">
+<rect width="1000" height="390" rx="18" fill="#151515"/>
+<rect x="0" y="0" width="1000" height="48" rx="18" fill="#151515"/>
+<circle cx="28" cy="24" r="6" fill="#FF3B30"/>
+<circle cx="50" cy="24" r="6" fill="#F5EFE3" opacity=".55"/>
+<circle cx="72" cy="24" r="6" fill="#F5EFE3" opacity=".3"/>
+<text x="95" y="29" font-family="monospace" font-size="15" fill="#F5EFE3" opacity=".7">rajdeep@portfolio:~</text>
+<g font-family="monospace" font-size="18">
+<text x="38" y="90" fill="#FF3B30">$</text>
+<text x="60" y="90" fill="#F5EFE3">whoami</text>
+<text x="38" y="122" fill="#F5EFE3">Rajdeep Senapati</text>
+
+<text x="38" y="158" fill="#FF3B30">$</text>
+<text x="60" y="158" fill="#F5EFE3">cat focus.txt</text>
+<text x="38" y="190" fill="#F5EFE3">Data Analytics · Machine Learning · GenAI</text>
+
+<text x="38" y="226" fill="#FF3B30">$</text>
+<text x="60" y="226" fill="#F5EFE3">python skills.py</text>
+<text x="38" y="258" fill="#F5EFE3">Python · SQL · pandas · NumPy · scikit-learn</text>
+<text x="38" y="286" fill="#F5EFE3">XGBoost · PySpark · Power BI · PostgreSQL</text>
+<text x="38" y="314" fill="#F5EFE3">LLMs · RAG · LangChain · Hugging Face · Agents</text>
+<text x="38" y="342" fill="#F5EFE3">Azure · AWS · Streamlit</text>
+</g>
+<rect x="38" y="353" width="10" height="19" fill="#FF3B30">
+  <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+</svg>
