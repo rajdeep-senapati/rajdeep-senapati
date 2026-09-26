@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="520" viewBox="0 0 1500 520">
+<rect width="1500" height="520" rx="18" fill="#F5EFE3" stroke="#151515" stroke-opacity=".14"/>
+<text x="55" y="58" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="3" fill="#151515">SELECTED WORK</text>
+<g font-family="Arial,Helvetica,sans-serif">
+<g fill="#F5EFE3" stroke="#151515" stroke-opacity=".18">
+<rect x="55" y="92" width="670" height="170" rx="12"/><rect x="775" y="92" width="670" height="170" rx="12"/>
+<rect x="55" y="290" width="670" height="170" rx="12"/><rect x="775" y="290" width="670" height="170" rx="12"/>
+</g>
+<g fill="#151515">
+<text x="85" y="132" font-size="26" font-weight="800">StockSense</text>
+<text x="85" y="164" font-size="17" fill="#4A4A4A">Retail demand forecasting + inventory decisions</text>
+<text x="85" y="211" font-size="19">541,909 transactions · 3,936 SKUs</text>
+<text x="805" y="132" font-size="26" font-weight="800">JobShield</text>
+<text x="805" y="164" font-size="17" fill="#4A4A4A">LLM workflow for job-risk and resume matching</text>
+<text x="805" y="211" font-size="19">Python · Groq · Streamlit</text>
+<text x="85" y="330" font-size="26" font-weight="800">Bank Nifty Research</text>
+<text x="85" y="362" font-size="17" fill="#4A4A4A">XGBoost-based index forecasting</text>
+<text x="85" y="409" font-size="19">R² 0.9499 · Time Series · XGBoost</text>
+<text x="805" y="330" font-size="26" font-weight="800">Route Optimizer</text>
+<text x="805" y="362" font-size="17" fill="#4A4A4A">Optimization + web interface + AI layer</text>
+<text x="805" y="409" font-size="19">React · Flask · OR-Tools</text>
+</g>
+<g fill="#FF3B30">
+<circle cx="695" cy="132" r="5"><animate attributeName="r" values="4;9;4" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="1415" cy="330" r="5"><animate attributeName="r" values="4;9;4" dur="2.8s" begin=".5s" repeatCount="indefinite"/></circle>
+<circle cx="695" cy="330" r="5"><animate attributeName="r" values="4;9;4" dur="2.6s" begin="1s" repeatCount="indefinite"/></circle>
+<circle cx="1415" cy="132" r="5"><animate attributeName="r" values="4;9;4" dur="3s" begin="1.5s" repeatCount="indefinite"/></circle>
+</g>
+</g>
+</svg>
