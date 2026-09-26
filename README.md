@@ -2,7 +2,7 @@
   <img src="./profile-banner.svg?v=2" width="100%" alt="Rajdeep Senapati — Data, ML, GenAI" />
 </div>
 <div align="center">
-  <img src="./githubgif_optimized" width="100%" " />
+  <img src="./githubgif_optimized.gif" width="100%" " />
 </div>
 <br>
 
