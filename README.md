@@ -12,7 +12,7 @@
 <br>
 
 <div>
-  <img src="./terminal.svg" width="100%" alt="Rajdeep terminal profile"/>
+  <img src="./terminal.svg?v=2" width="100%" alt="Rajdeep terminal profile"/>
 </div>
 
 <br>
@@ -35,9 +35,13 @@
 
 ### GenAI
 
-<a href="https://skillicons.dev">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface,langchain&perline=7" alt="GenAI skills"/>
-</a>
+<div>
+  <img src="https://cdn.simpleicons.org/huggingface/FF3B30" width="48" height="48" alt="Hugging Face"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/FF3B30" width="48" height="48" alt="LangChain"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/FF3B30" width="48" height="48" alt="LLMs"/>
+</div>
 
 **LLMs · RAG · LangChain · Hugging Face · Agents · Prompt Engineering**
 
