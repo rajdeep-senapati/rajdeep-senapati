@@ -12,7 +12,7 @@
 <br>
 
 <div>
-  <img src="./terminal.svg?v=4" width="100%" alt="Rajdeep terminal profile"/>
+  <img src="./terminal.svg?v=5" width="100%" alt="Rajdeep terminal profile"/>
 </div>
 
 <br>
