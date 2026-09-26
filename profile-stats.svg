@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170">
+<rect width="1200" height="170" rx="8" fill="#F5EFE3"/>
+<g font-family="Arial,Helvetica,sans-serif" fill="#151515">
+  <line x1="300" y1="24" x2="300" y2="146" stroke="#151515" stroke-opacity=".12"/>
+  <line x1="600" y1="24" x2="600" y2="146" stroke="#151515" stroke-opacity=".12"/>
+  <line x1="900" y1="24" x2="900" y2="146" stroke="#151515" stroke-opacity=".12"/>
+  <g text-anchor="middle">
+    <text x="150" y="72" font-size="38" font-weight="800">54</text>
+    <text x="150" y="105" font-size="14" font-weight="700" letter-spacing="2">PUBLIC REPOS</text>
+    <text x="450" y="72" font-size="38" font-weight="800">4</text>
+    <text x="450" y="105" font-size="14" font-weight="700" letter-spacing="2">FEATURED BUILDS</text>
+    <text x="750" y="72" font-size="38" font-weight="800">3</text>
+    <text x="750" y="105" font-size="14" font-weight="700" letter-spacing="2">CORE AREAS</text>
+    <text x="1050" y="72" font-size="38" font-weight="800" fill="#FF3B30">2026</text>
+    <text x="1050" y="105" font-size="14" font-weight="700" letter-spacing="2">GRADUATION</text>
+  </g>
+  <circle cx="20" cy="22" r="4" fill="#FF3B30">
+    <animate attributeName="cx" values="20;1180;20" dur="8s" repeatCount="indefinite"/>
+  </circle>
+</g>
+</svg>
