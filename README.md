@@ -8,17 +8,15 @@
   <a href="https://datascienceportfol.io/rajdeepsenapati">Portfolio</a>
   &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/rajdeep-senapati">LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:rajdeepsenapati26@gmail.com">Email</a>
 </div>
 
 <br>
 
 ## About
 
-I'm a Data Science graduate interested in the space between **data, machine learning, and practical AI**.
+I'm a Data Science graduate working across **data, machine learning, and practical AI**.
 
-I started with analysis and small ML projects, then moved into research, forecasting, optimization, and GenAI applications. I like understanding why something works, not just getting a model to run.
+I like taking a messy problem, figuring out what actually matters, and building something useful around it.
 
 `data → analysis → model → useful output`
 
@@ -38,10 +36,28 @@ Streamlit · Flask · PostgreSQL · Azure · AWS
 
 ## Selected work
 
-| | |
-|---|---|
-| **StockSense**<br>Retail demand forecasting and inventory decision support.<br><br>**541,909** transactions · **3,936** SKUs · **10.25 MAE** | **JobShield**<br>Job-risk analysis and evidence-based resume matching using a two-stage LLM workflow.<br><br>`Python` · `Groq` · `Streamlit` |
-| **Bank Nifty Research**<br>XGBoost-based index forecasting with an evaluated **R² of 0.9499**.<br><br>`XGBoost` · `Time Series` | **Route Optimizer**<br>Route planning combining optimization, a web interface, and an AI layer.<br><br>`React` · `Flask` · `OR-Tools` |
+**StockSense**  
+Retail demand forecasting and inventory decision support.  
+`541,909 transactions` · `3,936 SKUs` · `10.25 MAE`
+
+**JobShield**  
+LLM workflow for job-risk analysis and evidence-based resume matching.  
+`Python` · `Groq` · `Streamlit`
+
+**Bank Nifty Research**  
+XGBoost-based index forecasting with an evaluated `R² = 0.9499`.  
+`XGBoost` · `Time Series`
+
+**Route Optimizer**  
+Route planning combining optimization, a web interface, and an AI layer.  
+`React` · `Flask` · `OR-Tools`
+
+## GitHub activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajdeep-senapati&show_icons=true&include_all_commits=true&hide_border=false&border_color=151515&bg_color=F5EFE3&title_color=FF3B30&text_color=151515&icon_color=FF3B30" height="180" alt="GitHub statistics" />
+  <img src="https://streak-stats.demolab.com/?user=rajdeep-senapati&hide_border=false&border=151515&background=F5EFE3&stroke=151515&ring=FF3B30&fire=FF3B30&currStreakNum=151515&sideNums=151515&currStreakLabel=4A4A4A&sideLabels=4A4A4A&dates=4A4A4A" height="180" alt="GitHub contribution streak" />
+</div>
 
 ## Research
 
