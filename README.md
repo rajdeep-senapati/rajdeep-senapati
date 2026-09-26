@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile-banner.svg?v=2" width="100%" alt="Rajdeep Senapati — Data, ML, GenAI" />
+  <img src="./profile-banner.svg?v=3" width="100%" alt="Rajdeep Senapati — Data, ML, GenAI" />
 </div>
 
 <br>
@@ -84,7 +84,7 @@ Route planning combining optimization, a web interface, and an AI layer.
 ## GitHub activity
 
 <div align="center">
-  <img src="./profile-stats.svg?v=1" width="100%" alt="Profile statistics" />
+  <img src="./profile-stats.svg?v=2" width="100%" alt="Profile snapshot" />
 </div>
 
 ## Research
@@ -95,17 +95,47 @@ The work combined **statistical feature selection** with **XGBoost** across mult
 
 ## More work
 
-<div align="center">
-  <a href="https://github.com/rajdeep-senapati/Pizza-Review-AI-Assistant">↗ Pizza Review AI</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/rajdeep-senapati/finetuned_distibert">↗ DistilBERT</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/rajdeep-senapati/Spam-Detector">↗ Spam Detector</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/rajdeep-senapati/Diwali_Sales">↗ Diwali Sales</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/rajdeep-senapati/SuperStore_Analysis-Forecast">↗ SuperStore Analysis</a>
-</div>
+<table>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/rajdeep-senapati/Pizza-Review-AI-Assistant"><b>Pizza Review AI</b></a><br>
+AI assistant for pizza review analysis.
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/rajdeep-senapati/finetuned_distibert"><b>DistilBERT</b></a><br>
+Fine-tuned transformer text classification work.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/rajdeep-senapati/Spam-Detector"><b>Spam Detector</b></a><br>
+TF-IDF + MultinomialNB text classification.
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/rajdeep-senapati/Diwali_Sales"><b>Diwali Sales</b></a><br>
+Customer analysis and segmentation.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/rajdeep-senapati/SuperStore_Analysis-Forecast"><b>SuperStore Analysis</b></a><br>
+Sales analysis with forecasting.
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
 
 <br>
 
