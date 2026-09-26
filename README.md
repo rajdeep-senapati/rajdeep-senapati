@@ -20,7 +20,7 @@
 ## Main skills
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,pandas,numpy,sklearn,pycharm,git,github,azure,aws,docker,streamlit,flask,react,html,css&perline=9" alt="Rajdeep's main skills"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,postgres,mysql,pandas,numpy,scikitlearn,pycharm,git,github,azure,aws,docker,streamlit,flask,react,html,css&perline=9" alt="Rajdeep's main skills"/>
 </a>
 
 <br><br>
@@ -28,7 +28,7 @@
 ### Data & ML
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,postgres,mysql,apache&perline=7" alt="Data and machine learning skills"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,scikitlearn,postgres,mysql,pyspark,pbi&perline=8" alt="Data and machine learning skills"/>
 </a>
 
 **XGBoost · Time Series Forecasting · Feature Engineering · RFM · K-Means · Power BI · PySpark**
@@ -36,7 +36,7 @@
 ### GenAI
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=huggingface&perline=7" alt="GenAI skills"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface,langchain&perline=7" alt="GenAI skills"/>
 </a>
 
 **LLMs · RAG · LangChain · Hugging Face · Agents · Prompt Engineering**
@@ -44,7 +44,7 @@
 ### Cloud & build
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=azure,aws,streamlit,flask,git,github&perline=7" alt="Cloud and development skills"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,aws,streamlit,flask,git,github&perline=7" alt="Cloud and development skills"/>
 </a>
 
 <br>
@@ -134,11 +134,11 @@ The work combined **statistical feature selection** with **XGBoost** across mult
 
 <div>
   <a href="https://datascienceportfol.io/rajdeepsenapati">
-    <img src="https://cdn.simpleicons.org/briefcase/FF3B30" width="38" height="38" alt="Portfolio"/>
+    <img src="./assets/portfolio-icon.svg" width="38" height="38" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rajdeep-senapati">
-    <img src="https://cdn.simpleicons.org/linkedin/FF3B30" width="38" height="38" alt="LinkedIn"/>
+    <img src="./assets/linkedin-icon.svg" width="38" height="38" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/rajdeepirl">
