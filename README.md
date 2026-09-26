@@ -20,7 +20,7 @@
 ## Main skills
 
 <a href="https://skillicons.dev">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,postgres,mysql,pandas,numpy,scikitlearn,git,github,azure,aws,streamlit,docker&perline=8" alt="Rajdeep's main skills"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,postgres,mysql,pandas,numpy,scikitlearn,git,github,azure,aws,streamlit,docker&perline=6" alt="Rajdeep's main skills"/>
 </a>
 
 <br><br>
@@ -28,7 +28,7 @@
 ### Data & ML
 
 <a href="https://skillicons.dev">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,scikitlearn,xgboost,pyspark,pbi&perline=7" alt="Data and machine learning skills"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,scikitlearn,pyspark,pbi&perline=7" alt="Data and machine learning skills"/>
 </a>
 
 ### GenAI
