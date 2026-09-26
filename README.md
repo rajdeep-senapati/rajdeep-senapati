@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile-banner.svg" width="100%" alt="Rajdeep Senapati — Data, ML, GenAI" />
+  <img src="./profile-banner.svg?v=3" width="100%" alt="Rajdeep Senapati — Data, ML, GenAI" />
 </div>
 
 <br>
@@ -11,9 +11,7 @@
   <a href="mailto:rajdeepsenapati26@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%20EMAIL-151515?style=flat-square&labelColor=FF3B30&color=F5EFE3" alt="Email" /></a>
 </div>
 
-<div align="center">
-  <img src="./section-motion.svg" width="100%" alt="" />
-</div>
+<div align="center"><img src="./section-motion.svg?v=3" width="100%" alt="" /></div>
 
 ## About
 
@@ -23,9 +21,7 @@ I like taking a messy problem, figuring out what actually matters, and building 
 
 `data → analysis → model → useful output`
 
-<div align="center">
-  <img src="./section-motion-2.svg" width="100%" alt="" />
-</div>
+<div align="center"><img src="./section-motion-2.svg?v=3" width="100%" alt="" /></div>
 
 ## Tools I use
 
@@ -41,9 +37,7 @@ LLMs · RAG · LangChain · Hugging Face · agents
 **Build & deploy**  
 Streamlit · Flask · PostgreSQL · Azure · AWS
 
-<div align="center">
-  <img src="./section-motion-3.svg" width="100%" alt="" />
-</div>
+<div align="center"><img src="./section-motion-3.svg?v=3" width="100%" alt="" /></div>
 
 ## Selected work
 
@@ -98,15 +92,11 @@ Route planning combining optimization, a web interface, and an AI layer.
 </tr>
 </table>
 
-<div align="center">
-  <img src="./section-motion.svg" width="100%" alt="" />
-</div>
+<div align="center"><img src="./section-motion.svg?v=3" width="100%" alt="" /></div>
 
 ## GitHub activity
 
-<div align="center">
-  <img src="./activity-motion.svg" width="100%" alt="GitHub activity statistics" />
-</div>
+<div align="center"><img src="./activity-motion.svg?v=3" width="100%" alt="GitHub activity statistics" /></div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajdeep-senapati&bg_color=F5EFE3&color=151515&line=FF3B30&point=FF3B30&area=true&area_color=FF3B30&hide_border=true&radius=12" width="100%" alt="GitHub contribution activity" />
@@ -118,9 +108,7 @@ During my research internship at Jadavpur University, I worked on Alzheimer's di
 
 The work combined **statistical feature selection** with **XGBoost** across multiple binary classification tasks.
 
-<div align="center">
-  <img src="./section-motion-4.svg" width="100%" alt="" />
-</div>
+<div align="center"><img src="./section-motion-4.svg?v=3" width="100%" alt="" /></div>
 
 ## More repositories
 
@@ -132,10 +120,6 @@ The work combined **statistical feature selection** with **XGBoost** across mult
   <a href="https://github.com/rajdeep-senapati/SuperStore_Analysis-Forecast"><img src="https://img.shields.io/badge/SUPERSTORE%20ANALYSIS-151515?style=flat-square&labelColor=151515&color=F5EFE3" alt="SuperStore Analysis" /></a>
 </div>
 
-<div align="center">
-  <img src="./section-motion-2.svg" width="100%" alt="" />
-</div>
+<div align="center"><img src="./section-motion-2.svg?v=3" width="100%" alt="" /></div>
 
-<div align="center">
-  <sub>Building useful AI, not hype.</sub>
-</div>
+<div align="center"><sub>Building useful AI, not hype.</sub></div>
