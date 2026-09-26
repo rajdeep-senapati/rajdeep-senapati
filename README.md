@@ -6,13 +6,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF3B30&height=120&section=header" alt="Rajdeep header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=600&size=27&duration=3500&pause=700&color=FF3B30&center=false&vCenter=true&width=600&lines=Hello%2C+it's+Rajdeep+Senapati;Data+Science+%7C+Machine+Learning;GenAI+%7C+LLMs+%7C+RAG" alt="Typing introduction"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=600&size=27&duration=3500&pause=700&color=FF3B30&center=false&vCenter=true&width=600&lines=Hey%2C+it's+Rajdeep.;Data+Science+%7C+Machine+Learning;GenAI+%7C+LLMs+%7C+RAG" alt="Typing introduction"/>
 </a>
 
 <br>
 
 <div>
-  <img src="./terminal.svg?v=2" width="100%" alt="Rajdeep terminal profile"/>
+  <img src="./terminal.svg?v=3" width="100%" alt="Rajdeep terminal profile"/>
 </div>
 
 <br>
@@ -36,11 +36,11 @@
 ### GenAI
 
 <div>
-  <img src="https://cdn.simpleicons.org/huggingface/FF3B30" width="48" height="48" alt="Hugging Face"/>
+  <img src="./assets/huggingface-icon.svg" width="48" height="48" alt="Hugging Face"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/langchain/FF3B30" width="48" height="48" alt="LangChain"/>
+  <img src="./assets/langchain-icon.svg" width="48" height="48" alt="LangChain"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openai/FF3B30" width="48" height="48" alt="LLMs"/>
+  <img src="./assets/openai-icon.svg" width="48" height="48" alt="LLMs"/>
 </div>
 
 **LLMs · RAG · LangChain · Hugging Face · Agents · Prompt Engineering**
