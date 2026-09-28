@@ -1,7 +1,3 @@
-<!--
-  Rajdeep Senapati · GitHub profile
-  Same visual language as my portfolio: cream, black, red.
--->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF3B30&height=120&section=header" alt="Rajdeep header"/>
 
@@ -131,7 +127,7 @@ The work combined **statistical feature selection** with **XGBoost** across mult
 ## Connect with me
 
 <div>
-  <a href="https://datascienceportfol.io/rajdeepsenapati">
+  <a href="https://rajdeep-senapati.vercel.app">
     <img src="./assets/portfolio-icon.svg" width="38" height="38" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;&nbsp;
